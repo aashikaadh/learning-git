@@ -6,3 +6,5 @@ This is my first repository.
 
 Today I revised Git Commands.
 
+Welcome to Feature conflict Branch.
+
